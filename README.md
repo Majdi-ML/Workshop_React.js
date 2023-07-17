@@ -1,4 +1,4 @@
-# Getting Started with React - Workshop 22-23 Summer Intership(Vite)
+# React - Workshop(Vite)
 
 This project was bootstrapped with [Vite](https://vitejs.dev).
 
